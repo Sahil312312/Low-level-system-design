@@ -1,7 +1,7 @@
 There basically three types of factory patterns :
 
 1. Simple Factory:
-    a.Centralizes object creation in one method	
+    a.Centralizes object creation in one method	without interface.
     b. Voliates Open/Close Princple.
     c. To hide the new keyword and centralize object creation logic.
 
